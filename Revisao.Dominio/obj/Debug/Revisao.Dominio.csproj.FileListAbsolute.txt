@@ -1,0 +1,6 @@
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Dominio\bin\Debug\Revisao.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Dominio\bin\Debug\Revisao.Dominio.pdb
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Dominio\obj\Debug\Revisao.Dominio.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Dominio\obj\Debug\Revisao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Dominio\obj\Debug\Revisao.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Dominio\obj\Debug\Revisao.Dominio.pdb

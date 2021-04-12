@@ -1,0 +1,10 @@
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\bin\Debug\Revisao.Apresentacao.exe.config
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\bin\Debug\Revisao.Apresentacao.exe
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\bin\Debug\Revisao.Apresentacao.pdb
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\bin\Debug\Revisao.Dominio.dll
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\bin\Debug\Revisao.Dominio.pdb
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\obj\Debug\Revisao.Apresentacao.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\obj\Debug\Revisao.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\obj\Debug\Revisao.Apresentacao.csproj.CopyComplete
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\obj\Debug\Revisao.Apresentacao.exe
+C:\Users\juliano.maciel\source\repos\Facec.Primeiro.Bimestre.Revisao\Revisao.Apresentacao\obj\Debug\Revisao.Apresentacao.pdb
